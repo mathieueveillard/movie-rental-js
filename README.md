@@ -1,12 +1,12 @@
-# js-kata-starter
+# Movie Rental
 
-Starter project for kata (Node, TypeScript, Jest)
+Refactor this!
 
 ## Installation
 
 ```text
-git clone https://github.com/mathieueveillard/js-kata-starter.git
-cd js-kata-starter
+git clone https://github.com/mathieueveillard/movie-rental-js.git
+cd movie-rental-js
 npm install
 ```
 
